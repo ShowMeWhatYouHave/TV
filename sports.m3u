@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1,"Benfica TV" tvg-logo="https://cld.pt/dl/download/bc41e4a2-0dc9-43d3-b945-890185d914a8/BTV%201.png"
+https://asetoh.xyz:8443/live/nunor/4325/14434.m3u8
+
+#EXTINF:-1,"Benfica TV" tvg-logo="https://cld.pt/dl/download/bc41e4a2-0dc9-43d3-b945-890185d914a8/BTV%201.png"
+https://asetoh.xyz:8443/live/nunor/4325/14438.m3u8
+
+#EXTINF:-1,"Benfica TV" tvg-logo="https://cld.pt/dl/download/bc41e4a2-0dc9-43d3-b945-890185d914a8/BTV%201.png"
+https://asetoh.xyz:8443/live/nunor/4325/14436.m3u8
+
+#EXTINF:-1,"SPORT TV 1" tvg-logo="https://cld.pt/dl/download/5c8f6689-cc88-43d6-9bcb-4517da143d76/Sport%20TV%201.png"
+https://asetoh.xyz:8443/live/nunor/4325/14443.m3u8
+
+#EXTINF:-1,"SPORT TV 1" tvg-logo="https://cld.pt/dl/download/5c8f6689-cc88-43d6-9bcb-4517da143d76/Sport%20TV%201.png"
+https://asetoh.xyz:8443/live/nunor/4325/14448.m3u8
+
+#EXTINF:-1,"SPORT TV 1" tvg-logo="https://cld.pt/dl/download/5c8f6689-cc88-43d6-9bcb-4517da143d76/Sport%20TV%201.png"
+https://asetoh.xyz:8443/live/nunor/4325/14445.m3u8
+
+#EXTINF:-1,"SPORT TV 2" tvg-logo="https://cld.pt/dl/download/044063f4-94ab-4bcb-ab46-159d38960b30/Sport%20TV%202.png"
+https://asetoh.xyz:8443/live/nunor/4325/14449.m3u8
+
+#EXTINF:-1,"SPORT TV 2" tvg-logo="https://cld.pt/dl/download/044063f4-94ab-4bcb-ab46-159d38960b30/Sport%20TV%202.png"
+https://asetoh.xyz:8443/live/nunor/4325/12388.m3u8
+
+#EXTINF:-1,"SPORT TV 2" tvg-logo="https://cld.pt/dl/download/044063f4-94ab-4bcb-ab46-159d38960b30/Sport%20TV%202.png"
+https://asetoh.xyz:8443/live/nunor/4325/151042.m3u8
+
+#EXTINF:-1,"SPORT TV 3" tvg-logo="https://cld.pt/dl/download/4a40b4d6-9c29-4c3f-8735-6d8aea8b46a9/Sport%20TV%203.png"
+https://asetoh.xyz:8443/live/nunor/4325/14455.m3u8
+
+#EXTINF:-1,"SPORT TV 3" tvg-logo="https://cld.pt/dl/download/4a40b4d6-9c29-4c3f-8735-6d8aea8b46a9/Sport%20TV%203.png"
+https://asetoh.xyz:8443/live/nunor/4325/14458.m3u8
+
+#EXTINF:-1,"SPORT TV 3" tvg-logo="https://cld.pt/dl/download/4a40b4d6-9c29-4c3f-8735-6d8aea8b46a9/Sport%20TV%203.png"
+https://asetoh.xyz:8443/live/nunor/4325/151044.m3u8
+
+#EXTINF:-1,"SPORT TV 4" tvg-logo="https://cld.pt/dl/download/4586f96a-af1a-473b-9499-33201eb8e3fa/Sport%20TV%204.png"
+https://asetoh.xyz:8443/live/nunor/4325/14463.m3u8
+
+#EXTINF:-1,"SPORT TV 4" tvg-logo="https://cld.pt/dl/download/4586f96a-af1a-473b-9499-33201eb8e3fa/Sport%20TV%204.png"
+https://asetoh.xyz:8443/live/nunor/4325/14459.m3u8
+
+#EXTINF:-1,"SPORT TV 4" tvg-logo="https://cld.pt/dl/download/4586f96a-af1a-473b-9499-33201eb8e3fa/Sport%20TV%204.png"
+https://asetoh.xyz:8443/live/nunor/4325/14461.m3u8  
+
+#EXTINF:-1,"ELEVEN 1" tvg-logo="https://cld.pt/dl/download/8ab2afd2-2326-463e-9c9f-3e6428f0e12e/Eleven%20Sports%201.png"
+https://asetoh.xyz:8443/live/nunor/4325/14479.m3u8
+
+#EXTINF:-1,"ELEVEN 1" tvg-logo="https://cld.pt/dl/download/8ab2afd2-2326-463e-9c9f-3e6428f0e12e/Eleven%20Sports%201.png"
+https://asetoh.xyz:8443/live/nunor/4325/14475.m3u8
+
+#EXTINF:-1,"ELEVEN 1" tvg-logo="https://cld.pt/dl/download/8ab2afd2-2326-463e-9c9f-3e6428f0e12e/Eleven%20Sports%201.png"
+https://asetoh.xyz:8443/live/nunor/4325/14477.m3u8
+
+#EXTINF:-1,"ELEVEN 2" tvg-logo="https://cld.pt/dl/download/6ac8cfa6-d80a-42a0-b115-f8994e9a0c4f/Eleven%20Sports%202%20%E1%B4%B4%E1%B4%B0.png"
+https://asetoh.xyz:8443/live/nunor/4325/151051.m3u8
+
+#EXTINF:-1,"ELEVEN 3" tvg-logo="https://cld.pt/dl/download/e3dee7a8-6d95-459e-acf5-eba88d932996/Eleven%20Sports%203%20%E1%B4%B4%E1%B4%B0.png"
+https://asetoh.xyz:8443/live/nunor/4325/14487.m3u8
+
+#EXTINF:-1,"ELEVEN 3" tvg-logo="https://cld.pt/dl/download/e3dee7a8-6d95-459e-acf5-eba88d932996/Eleven%20Sports%203%20%E1%B4%B4%E1%B4%B0.png"
+https://asetoh.xyz:8443/live/nunor/4325/14491.m3u8
+
+#EXTINF:-1,"ELEVEN 3" tvg-logo="https://cld.pt/dl/download/e3dee7a8-6d95-459e-acf5-eba88d932996/Eleven%20Sports%203%20%E1%B4%B4%E1%B4%B0.png"
+https://asetoh.xyz:8443/live/nunor/4325/14489.m3u8
